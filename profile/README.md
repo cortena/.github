@@ -1,7 +1,7 @@
 # CortenaOS
 
 <p align="center">
-  <img src="./banner-magenta.svg" alt="CortenaOS" style="border-radius: 8px;" />
+  <img src="./banner.png" alt="CortenaOS" />
 </p>
 
 <p align="center">
