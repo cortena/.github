@@ -1,7 +1,7 @@
 # CortenaOS
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/234263379?s=400&u=e5d644ea2406ba8aac6df312254d0659808f7fd1&v=4" alt="CortenaOS"/>
+  <img src="./banner-magenta.svg" alt="CortenaOS" style="border-radius: 8px;" />
 </p>
 
 <p align="center">
