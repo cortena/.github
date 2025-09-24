@@ -31,7 +31,7 @@ Our vision is simple:
 
 ## 📱 Supported Devices
 
-CortenaOS was developed and tested on the devices in this [list](https://github.com/cortena/device-support).
+CortenaOS was developed and tested on the devices in this [list](https://github.com/cortena/cortena_device_support).
 
 _More devices will be added once the core is stable._
 
