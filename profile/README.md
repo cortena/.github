@@ -1,65 +1,41 @@
-# CortenaOS
-
 <p align="center">
   <img src="./banner.png" alt="CortenaOS" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CortenaOS-AOSP%20Based-blue?style=for-the-badge&logo=android" alt="CortenaOS Banner"/>
-</p>
+**CortenaOS** is a custom Android ROM built on the Android Open Source Project (AOSP), focused on stability, innovation, security, and efficiency.
 
-**CortenaOS** is a custom Android ROM built on the Android Open Source Project (AOSP). It focuses on delivering an **exclusive UI experience**, **stable performance**, and **real power efficiency**.
+## Vision
 
-## ✨ Vision
+CortenaOS is not just another Android skin. It is built to be refined and purposeful — delivering a consistent experience without compromising on performance or battery life, while remaining true to the AOSP foundation.
 
-CortenaOS is not just another Android skin — it is designed to feel **exclusive and refined**,  
-balancing **fluidity, consistency, and battery life** while staying true to the AOSP foundation.
+- **Stability** — Reliable day-to-day performance with smooth frame pacing and consistent responsiveness.
+- **Innovation** — Custom UI components, redesigned system surfaces, and an experience that goes beyond stock AOSP.
+- **Security** — SELinux enforcing by default, with privacy-conscious system policies throughout.
+- **Efficiency** — Battery-aware kernel and framework tuning that makes every charge count.
 
-Our vision is simple:
+## Features
 
-- **Exclusive design** → Custom UI components, redesigned settings, control center, and launcher.
-- **Stable performance** → Prioritizing smooth frame pacing and reliable responsiveness.
-- **Real power efficiency** → Battery-aware policies tuned across the kernel and framework.
+- Redesigned UI with clean, modern system surfaces built for daily use.
+- Optimized scheduling and thermal profiles for consistent performance without throttle spikes.
+- Aggressive yet safe power-saving policies across kernel and framework layers.
+- SELinux enforcing with privacy-first defaults out of the box.
+- OTA support for seamless incremental updates.
 
-## 🔑 Key Features
+## Supported Devices
 
-- 🖌 **Redesigned UI** – Clean, modern interface crafted for daily usability.
-- ⚡ **Stable Performance** – Optimized scheduling and thermal profiles for consistent smoothness.
-- 🔋 **Battery Efficiency** – Aggressive yet safe power-saving policies.
-- 🔒 **Security First** – SELinux enforcing, with privacy-conscious defaults.
-- 📲 **OTA Ready** – Incremental updates delivered seamlessly.
+Tested and supported devices are listed [here](https://github.com/cortena/cortena_device_support). Additional devices will be added as the core stabilizes.
 
-## 📱 Supported Devices
+## Contributing
 
-CortenaOS was developed and tested on the devices in this [list](https://github.com/cortena/cortena_device_support).
+CortenaOS is currently closed-source. Contributions are welcome in the following areas:
 
-_More devices will be added once the core is stable._
-
-## 🌟 Why CortenaOS?
-
-- A **unique experience** that doesn’t feel like stock AOSP or a bloated skin.
-- **Performance that lasts** — tuned for day-to-day consistency, not just benchmarks.
-- **Battery as a feature** — policies ensure your device makes the most of every charge.
-- A **focus on essentials** — no unnecessary bloat, only what’s truly useful.
-
-## 🤝 Contributing
-
-CortenaOS is currently a **closed-source project**, but contributions are welcome in the form of:
-
-- Device bring-up and testing
-- UI/UX feedback
+- Device bring-up and hardware testing
+- UI/UX feedback and design input
 - Community moderation
 - Documentation and translation
 
-Stay tuned for contribution guidelines and community channels.
+Contribution guidelines and community channels will be announced soon.
 
-## 📜 License
+## License
 
-```
-CortenaOS inherits AOSP licensing terms and upstream project licenses.
-Device-specific proprietary blobs remain the property of their respective vendors.
-```
-
-## 👤 Author
-
-Maintained by [Achmad Daniel Syahputra](https://github.com/kudanilll).
+CortenaOS inherits AOSP licensing terms and all applicable upstream project licenses. Device-specific proprietary blobs remain the property of their respective vendors.
